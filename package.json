@@ -1,0 +1,33 @@
+{
+  "name": "shoutjs",
+  "version": "0.0.1",
+  "description": "Beautiful output for your ShellJS commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/typicode/shoutjs.git"
+  },
+  "keywords": [
+    "shelljs",
+    "shell",
+    "unix",
+    "output",
+    "cli",
+    "command",
+    "log",
+    "logs",
+    "logging"
+  ],
+  "author": "Typicode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/typicode/shoutjs/issues"
+  },
+  "dependencies": {
+    "logan": "*",
+    "shelljs": "*"
+  }
+}
