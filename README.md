@@ -1,6 +1,6 @@
 # ShoutJS
 
-Make your ShellJS commands Explicit and get a beautiful output.
+Make your ShellJS commands explicit and get a beautiful output.
 
 ## Example
 
