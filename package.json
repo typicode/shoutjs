@@ -1,6 +1,6 @@
 {
   "name": "shoutjs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Beautiful output for your ShellJS commands",
   "main": "index.js",
   "scripts": {

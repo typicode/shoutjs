@@ -7,7 +7,7 @@ logan.set({
   mv    : ['  move   % to %', 'cyan . cyan .'],
   mkdir : ['  create %     ', 'cyan         '],
   to    : ['  create %     ', 'cyan         '],
-  exec  : ['  exec   %     ', 'yellow yellow']
+  exec  : ['  exec   %     ', 'blue .       ']
 });
 
 var __slice = Array.prototype.slice;

@@ -45,12 +45,12 @@ Here is the default theme:
 ```javascript
 // Default theme
 shout.logan.set({
-  cp   : ['  copy   % to %', 'cyan . cyan .'],
-  rm   : ['  remove %     ', 'red          '],
-  mv   : ['  move   % to %', 'cyan . cyan .'],
-  mkdir: ['  create %     ', 'cyan         '],
-  to   : ['  create %     ', 'cyan         '],
-  exec : ['  exec   %     ', 'yellow yellow']
+  cp    : ['  copy   % to %', 'cyan . cyan .'],
+  rm    : ['  remove %     ', 'red          '],
+  mv    : ['  move   % to %', 'cyan . cyan .'],
+  mkdir : ['  create %     ', 'cyan         '],
+  to    : ['  create %     ', 'cyan         '],
+  exec  : ['  exec   %     ', 'blue .       ']
 });
 ```
 
@@ -59,8 +59,8 @@ To override it:
 ```javascript
 //  A bit more old fashioned theme...
 shout.logan.set({
-  cp   : ['cp % %', 'grey'],
-  rm   : ['rm %  ', 'grey'],
+  cp    : ['cp % %', 'grey'],
+  rm    : ['rm %  ', 'grey'],
   // ...
 });
 ```
