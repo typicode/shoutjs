@@ -85,6 +85,15 @@ shout.rm('file.txt');
 logan.info('done');
 ```
 
+## Configuration
+
+You can disable ShoutJS output using ```logan.silent``` option.
+
+```javascript
+shout.logan.silent = true;
+shout.to('ichigo.txt', 'Bankai!'); // No output
+```
+
 ## Issues
 
 Have a bug or missing a new command introduced in ShellJS? Please create an issue here on GitHub!
